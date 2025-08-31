@@ -3,6 +3,7 @@
 1. Summary of Hutchins et al. (2011)
    - The article explains the idea of the Intrusion Kill Chain, which shows the steps attackers usually take in a cyberattack.
    - The kill chain has seven stages:
+     
      a. Reconnaissance- collecting information about the target.
      
      b. Weaponisation- creating malicious file or tool.
