@@ -24,7 +24,7 @@
 
 My thought: If defenders only focus on one step (like blocking delivery), attackers may put more effort into earlier stages, such as better reconnaissance. Defence should cover all steps, not just one.
 
-3. Tactics, Tools and Procedures
+2. Tactics, Tools and Procedures
      - Tactic: the goal of the attacker at a certain step. Example: Credential Access (trying to steal usernames and passwords).
        
      - Technique: the method used to achieve goal. Example: Brute Force (repeatedly trying different passswords).
@@ -35,7 +35,7 @@ My thought: If defenders only focus on one step (like blocking delivery), attack
 
 This framework helps turn abstract ideas about attacks into clear, real examples that defenders can spot and block.
 
-4. Short Attack Story
+3. Short Attack Story
    - Reconnaissance: The attacker scans for open SSH ports with nmap.
 
      Defence: IDS alerts the admin about scanning.
