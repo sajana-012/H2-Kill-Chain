@@ -22,7 +22,7 @@
  
    - The paper also highlights that attackers often work in longer campaigns, not just single actions.
 
-My thought: If defenders only focus on one step (like blocking delivery), attackers may put more effort into earlier stages, such as better reconnaissance. Defence should cover all steps, not just one.
+   My thought: If defenders only focus on one step (like blocking delivery), attackers may put more effort into earlier stages, such as better reconnaissance. Defence should cover all steps, not just one.
 
 2. Tactics, Tools and Procedures
      - Tactic: the goal of the attacker at a certain step. Example: Credential Access (trying to steal usernames and passwords).
@@ -33,7 +33,7 @@ My thought: If defenders only focus on one step (like blocking delivery), attack
     
      - Procedure: how it looks in real life. Example: Running the Hydra tool with a password list to break into an SSH account.
 
-This framework helps turn abstract ideas about attacks into clear, real examples that defenders can spot and block.
+   This framework helps turn abstract ideas about attacks into clear, real examples that defenders can spot and block.
 
 3. Short Attack Story
    - Reconnaissance: The attacker scans for open SSH ports with nmap.
@@ -56,7 +56,7 @@ This framework helps turn abstract ideas about attacks into clear, real examples
   
      Defence: Firewall blocks traffic to an untrusted server.
 
-  Result: The attack was detected and blocked before data was lost.
+   Result: The attack was detected and blocked before data was lost.
 
 ## References
 
